@@ -1,0 +1,5 @@
+C:\Users\Josmary7\Documents\cchar\Solution1primertrabajo\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Users\Josmary7\Documents\cchar\Solution1primertrabajo\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Users\Josmary7\Documents\cchar\Solution1primertrabajo\capaEntidad\obj\Debug\capaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\Josmary7\Documents\cchar\Solution1primertrabajo\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Users\Josmary7\Documents\cchar\Solution1primertrabajo\capaEntidad\obj\Debug\capaEntidad.pdb
